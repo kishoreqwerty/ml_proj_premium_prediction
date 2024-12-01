@@ -28,22 +28,16 @@ The **Health Insurance Premium Prediction App** is a machine learning applicatio
 
 ### File Structure
 
-- `Main.py`: Main Streamlit application script.
-- `Prediction_helper.py`: Contains functions for loading models and making predictions.
+- `main.py`: Main Streamlit application script.
+- `prediction_helper.py`: Contains functions for loading models and making predictions.
 - `requirements.txt`: Lists all Python dependencies required for the project.
-- `Premium_Prediction_App/model_rest.joblib`: Saved model file.
-- `Premium_Prediction_App/scaler_rest.joblib`: Saved scaler file.
+- `artifacts/model_rest.joblib`: Saved model file.
+- `artifacts/scaler_rest.joblib`: Saved scaler file.
 - `README.md`: This file.
-
----
-
-### License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ### Contact
 
 For any questions or issues, please contact:  
-**Email:** jallusandeep0902@gmail.com
+**Email:** kishoresj1807@gmail.com
